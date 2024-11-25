@@ -13,7 +13,7 @@ _Shalat_ journal tracks five elements :
 2. Shalat : The five obligatory prayers, _Shubuh_, _Dzuhur_, _Ashar_, _Maghrib_, _Isya_.
 3. Commitment :
    - Committed : If the shalat is committed.
-   - Abandoned : If the shalat is abandoned.
+   - Abandoned : If the shalat is abandoned. If _shalat_ is abandoned, the other elements are empty or filled with zeros.
 4. Person :
    - Jamaah : If the prayer is performed in congregation (_Jamaah_).
    - Alone : If the prayer is performed alone.
