@@ -22,18 +22,16 @@ _Shalat_ journal tracks five elements :
    - Home : If the prayer is performed at home.
 
 The journal should look like this : 
-    Date        Shalat  Commitment Person Place
-    2024/11/18	Shubuh	Committed	 Alone	Home
-    2024/11/18	Dzuhur	Committed	 Jamaah	Mosque
-    2024/11/18	Ashar	  Committed	Jamaah	Mosque
-    2024/11/18	Maghrib	Committed	Jamaah	Mosque
-    2024/11/18	Isya	  Committed	Jamaah	Mosque
+
 ![image](https://github.com/user-attachments/assets/015bbc99-3c08-4935-ad87-8aa4aae5486c)
 
 
 # To Do 
 - [x] Explain the background
 - [x] Explain the rule
-- [] Export data to .csv or .tsv
-- [] Explain how to analyze with commandline
-- [] Bahasa Indonesia translation
+- [ ] Explain the analysis
+- [ ] Export data to .csv or .tsv
+- [ ] (Possible) Add attributes, eg : _Masbuq_, _Imam_
+- [ ] (Possible) Create a scoring model
+- [ ] Explain how to analyze with commandline
+- [ ] Bahasa Indonesia translation
